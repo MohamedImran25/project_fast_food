@@ -1,0 +1,35 @@
+@font-face {
+    font-family: imran;
+    src: url(Poppins\,Roboto/);
+}
+
+.border{
+    width: 1260px;
+    height: 800px;
+    border: 1px solid red;
+}
+    
+
+.image{
+    width: 1270px;
+    height: 750px;
+    background-image:url(3007283.jpg);
+    background-size: cover;
+}
+.content{
+    width: 600px;
+    height: 798px;
+    /* border: 2px solid green;  */
+    padding-top: 250px;
+    padding-left: 50px;
+     color: aliceblue;
+}
+.content h1{
+    font-size: 100px;
+    line-height: 2px;
+    font-family: imran;
+}
+.content h4{
+    font-size: 20px;
+    font-family: imran;
+}
